@@ -2,7 +2,7 @@
 result
 
     Array
-(
+    (
     [123] => Array
         (
             [0] => Array
@@ -80,4 +80,4 @@ result
             [email] => jonas@cvbankas.lt
         )
 
-)
+    )
